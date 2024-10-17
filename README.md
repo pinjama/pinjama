@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on updating this portfolio
+- 🔭 I’m currently working on this portfolio
 - 🌱 I’m currently studying these courses: AI with Python, Python Advanced Course, Microsoft Power Apps and WordPress Application Development
 - ⚡ Fun fact: I love potatoes!
 
